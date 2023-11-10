@@ -1,8 +1,21 @@
 <!DOCTYPE html>
 <html>
+<head>
+
+
+    <h3 style="font-family:serif"> Coder: Akinwale Owi </h3>
+    <h3 style="font-family:serif"> Company: Godbrand Games L.L.C. </h3>
+    <h3 style="font-family:serif"> Program Goal: Make a Google 3d Pie Chart</h3>
+
+
+    <title>Charts: Google 3D Pie Chart
+    </title>
+
+</head>
+
 <script src="https://www.gstatic.com/charts/loader.js"></script>
 
-<body>
+<body text = "#522D80" bgcolor="#F56600">
 <div
 id="myChart" style="width:100%; max-width:600px; height:500px;">
 </div>
